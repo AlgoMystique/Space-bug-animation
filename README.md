@@ -13,7 +13,7 @@
 
 Check out the live demo [here](https://algomystique.github.io/Space-bug-animation)
 
-![Space Bug Animation](assets/space-bug-demo.gif)  <!-- Add your GIF here -->
+![Space Bug Animation](screenshot.png) 
 
 ## Installation
 
